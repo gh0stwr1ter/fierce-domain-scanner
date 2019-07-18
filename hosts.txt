@@ -47,6 +47,7 @@ admin
 admin2
 administracion
 administrador
+administration
 administrator
 administrators
 admins
